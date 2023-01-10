@@ -1,0 +1,180 @@
+{
+  "challenges": [
+    {
+      "week": 1,
+      "name": "1p Wave 20 Unarmed",
+      "description": "Reach wave 20 with only 1 player while completely unarmed",
+      "rules": "At the end of the game, your teammate must have 0 points and damage, and you must complete this entire challenge without picking up any weapon or gadget",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 1,
+      "name": "2p High Waves",
+      "description": "Reach the highest wave that you can with 2 players!",
+      "rules": "If players switch doors at any point after wave 25, this challenge doesn't count",
+      "isWaveBased": true,
+      "waveReached": 10,
+      "points": 1,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 1,
+      "name": "2p Greatsword",
+      "description": "Reach the highest wave that you can with 2 players, but both players can only attack using the Greatsword weapon!",
+      "rules": "If players switch doors at any point after wave 25, this challenge doesn't count. Gadgets are still allowed.",
+      "isWaveBased": true,
+      "waveReached": 0,
+      "points": 1,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 1,
+      "name": "2p Hammer",
+      "description": "Reach the highest wave that you can with 2 players, but both players can only attack using the Hammer weapon!",
+      "rules": "If players switch doors at any point after wave 25, this challenge doesn't count. Gadgets are still allowed.",
+      "isWaveBased": true,
+      "waveReached": 0,
+      "points": 1,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 1,
+      "name": "2p Locked In Part 2",
+      "description": "Reach wave 26 with 2 players with both players only using the same light attack, and the same weapon",
+      "rules": "You may use other attacks so long as they do not inflict any damage (EG recovering back to the stage)",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 1,
+      "name": "2p Assortment of Tools",
+      "description": "Reach wave 26 with 2 players while killing gruagach with a different weapon each time",
+      "rules": "A weapon can count as any normal weapon, unarmed, or any gadget",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 1,
+      "name": "3p Centralized",
+      "description": "Reach Wave 26 with 3 players while only touching the long middle platform",
+      "rules": "Before any demons are killed, all 3 players must jump off any other platforms they may spawn atop; you may kill demons while airborne, but you may only land on the middle platform (you may phase through other platforms as long as you do not land on them)",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 1,
+      "name": "4p Fair World",
+      "description": "Reach Wave 26 with 4 players with each player having exactly 1 kill on Gruagach",
+      "rules": "Each player must kill Gruagach exactly 1 time, which means that there must be one round where Gruagach SDs",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 1,
+      "name": "speedrun: The Ultimate Trio",
+      "description": "Reach wave 26 with 3 players within 6:00 or less",
+      "rules": "N/A",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 2,
+      "name": "1p Ricochet",
+      "description": "Kill a red demon with a spikeball after bouncing it off a mine",
+      "rules": "Can be completed on any player amount, but is only completed by the person who got the kill, not everyone in the game",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 2,
+      "name": "2p Hitless Waves",
+      "description": "Reach the highest wave that you can with 2 players with your door remaining hitless!",
+      "rules": "Unlike the normal hitless challenge, this challenge only applies to your door, so if your teammates door gets hit, but yours is still hitless, you're still elligible for completing the challenge. If players switch doors at any point after wave 25, this challenge doesn't count. Demons who despawn once they reach the door without dealing damage count as taking damage",
+      "isWaveBased": true,
+      "waveReached": 0,
+      "points": 2,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 2,
+      "name": "2p Sword",
+      "description": "Reach the highest wave that you can with 2 players, but both players can only attack using the Sword weapon!",
+      "rules": "If players switch doors at any point after wave 25, this challenge doesn't count. Gadgets are still allowed.",
+      "isWaveBased": true,
+      "waveReached": 0,
+      "points": 1,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 2,
+      "name": "2p Orb",
+      "description": "Reach the highest wave that you can with 2 players, but both players can only attack using the Orb weapon!",
+      "rules": "If players switch doors at any point after wave 25, this challenge doesn't count. Gadgets are still allowed.",
+      "isWaveBased": true,
+      "waveReached": 0,
+      "points": 1,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 2,
+      "name": "2p Cutting it Close",
+      "description": "Reach wave 26 with 2 players with both doors open",
+      "rules": "A door still counts as open if it's visually closed but there are no particles coming out of it",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 2,
+      "name": "2p Survival",
+      "description": "Survive for 15 minutes with 2 players without going past wave 40",
+      "rules": "N/A",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 2,
+      "name": "4p Diversity",
+      "description": "Reach Wave 26 with 4 players with 8 separate weapons in 1 game",
+      "rules": "No 2 players can play characters that share any weapons",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+    {
+      "week": 2,
+      "name": "speedrun: Double Trouble",
+      "description": "Reach wave 11 with 2 players within 2:00 or less",
+      "rules": "N/A",
+      "isWaveBased": false,
+      "points": 10,
+      "messageId": "-1",
+      "channelId": "-1"
+    },
+  ]
+}
